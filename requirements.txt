@@ -20,6 +20,7 @@ folium
 fonttools                
 fsspec 
 gitdb     
+geocoder
 GitPython 
 idna        
 importlib-metadata 
