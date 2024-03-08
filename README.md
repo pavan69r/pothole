@@ -1,2 +1,2 @@
-# Netra
-Pothole Detection WebApp made by Team Navya at NIT Raipur
+# Optipave
+Pothole Detection WebApp made by Learners
